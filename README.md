@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **ALX SE Program**
+- 🔭 I’m currently working on **Front-end development for nice layouts and better interactivity**
 
 - 🌱 I’m currently learning **React, Python, SQL, JavaScript**
 
