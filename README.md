@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/programmer-typographic-header-concept-idea-working_277904-13.jpg?w=1480)
 <h1 align="center">Hi 👋, I'm Rebecca Kariuki</h1>
-<h3 align="center">A passionate Front-End developer from Kenya. I am currently on the road to being a Full Stack Developer and it has been so much fun learning all these new things.</h3>
+<h3 align="center">A passionate Full Stack Web developer | QA/QE from Kenya. I am currently on the road to being a Full Stack Developer and it has been so much fun learning all these new things.</h3>
 <img align="right" alt="coding" width="500" src="https://cutewallpaper.org/25/anime-programmer-wallpaper/anime-tyan--discord-themes-download-free-35756.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beckyshee&label=Profile%20views&color=0e75b6&style=flat" alt="beckyshee" /> </p>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Front-end development for nice layouts and better interactivity**
 
-- 🌱 I’m currently learning **React, Python, SQL, JavaScript**
+- 🌱 I’m currently learning **React, Angular**
 
 - 👯 I’m looking to collaborate on **Fun projects**
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Beckyshee](https://github.com/Beckyshee)
 
-- 💬 Ask me about **MERN, Python**
+- 💬 Ask me about **MERN, MEAN, Everything Testing**
 
 - 📫 How to reach me **wanjirubecky.rw@gmail.com**
 
