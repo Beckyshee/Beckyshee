@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/programmer-typographic-header-concept-idea-working_277904-13.jpg?w=1480)
 <h1 align="center">Hi 👋, I'm Rebecca Kariuki</h1>
-<h3 align="center">A Passionate Full Stack Web Developer | QA/QE from Kenya. I am currently on the road to being a Full Stack Developer and it has been so much fun learning all these new things.</h3>
+<h3 align="center">A Passionate Quality Assurance Engineer | Full-Stack Dev from Kenya. I love learning new things and I can't wait to see where my tech journey takes me. I am in for a joyful ride</h3>
 <img align="right" alt="coding" width="500" src="https://cutewallpaper.org/25/anime-programmer-wallpaper/anime-tyan--discord-themes-download-free-35756.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beckyshee&label=Profile%20views&color=0e75b6&style=flat" alt="beckyshee" /> </p>
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Beckyshee](https://github.com/Beckyshee)
 
-- 💬 Ask me about **MERN, MEAN, Everything Testing**
+- 💬 Ask me about **MERN, MEAN, SERN, Automation testing, Manual testing & Everything Testing**
 
 - 📫 How to reach me **wanjirubecky.rw@gmail.com**
 
