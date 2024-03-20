@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/premium-vector/programmer-typographic-header-concept-idea-working_277904-13.jpg?w=1480)
 <h1 align="center">Hi 👋, I'm Rebecca Kariuki</h1>
 <h3 align="center">A Passionate Quality Assurance Engineer | Full-Stack Dev from Kenya. I love learning new things and I can't wait to see where my tech journey takes me. I am in for a joyful ride</h3>
-<img align="right" alt="coding" width="500" src="https://cutewallpaper.org/25/anime-programmer-wallpaper/anime-tyan--discord-themes-download-free-35756.png(https://storage.googleapis.com/pai-images/0b9a4f9b71264bfcb327bdd7eb7e7e75.jpeg)">
+<img align="right" alt="coding" width="500" src="https://e0.pxfuel.com/wallpapers/505/558/desktop-wallpaper-anime-girl-computer-anime-programming.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beckyshee&label=Profile%20views&color=0e75b6&style=flat" alt="beckyshee" /> </p>
 
